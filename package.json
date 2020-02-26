@@ -1,0 +1,19 @@
+{
+  "name": "dannyweb.git",
+  "version": "1.0.0",
+  "description": "Danny's Webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rarencibia/dannyWebsite.git"
+  },
+  "author": "Robert Arencibia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rarencibia/dannyWebsite/issues"
+  },
+  "homepage": "https://github.com/Rarencibia/dannyWebsite#readme"
+}
